@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-RELEASES_URI=https://raw.githubusercontent.com/dotnet/core/master/release-notes/releases-index.json
+RELEASES_URI=https://raw.githubusercontent.com/dotnet/core/main/release-notes/releases-index.json
 FILE="releases.json"
 KEY="latest-sdk"
 
